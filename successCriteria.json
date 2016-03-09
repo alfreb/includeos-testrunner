@@ -1,0 +1,6 @@
+{
+  "crt": ["[*] Global constructor printing 1"],
+  "IRQ_PIC": ["One second passed...", "Two seconds passed...", "Five seconds passed..."],
+  "timers": ["7 seconds passed...42", "One second passed...", "Half a second passed...", "Three second passed...", "Hey - this is a std::function - it knows about integers:"],
+  "UDP": ["Service IP address: 10.0.0.42", "UDP server listening to port 4242"]
+}

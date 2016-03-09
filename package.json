@@ -1,0 +1,24 @@
+{
+  "name": "includeos-testrunner",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.12.0"
+  },
+  "dependencies": {
+    "arr-exclude": "^1.0.0",
+    "arr-include": "^1.0.0",
+    "execa": "^0.2.2",
+    "indent-string": "^2.1.0",
+    "is-directory": "^0.3.0",
+    "jsonfile": "^2.2.3",
+    "markdown-table": "^0.4.0",
+    "strip-path": "^1.0.0"
+  }
+}
